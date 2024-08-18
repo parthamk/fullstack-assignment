@@ -10,7 +10,7 @@
    ```
    - open your favorite code editor in the current directory (VS code `preferred`)
    - now open terminal or command prompt and follow the instructions
-   
+
 2. **Frontend:**
 
    - I have used `vite` and `tailwindcss` for `frontend`.
@@ -31,7 +31,7 @@
 
    <details>
       <summary>Click to expand</summary>
-      ```
+      
       └── 📁frontend
          └── 📁public
             └── check.svg
@@ -59,7 +59,7 @@
          └── README.md
          └── tailwind.config.js
          └── vite.config.js
-      ```
+      
    </details>
 
    
@@ -115,7 +115,7 @@
 
    <details>
       <summary>Click to expand</summary>
-      ```
+      
       └── 📁backend
          └── 📁routes
             └── cards.js
@@ -124,6 +124,6 @@
          └── package-lock.json
          └── package.json
          └── server.js
-      ```
+      
    </details>
 ---
