@@ -29,9 +29,7 @@
 
    > Frontend file structure
 
-   <details>
-      <summary>Click to expand</summary>
-      ```markdown
+      ```
          └── 📁frontend
             └── 📁public
                └── check.svg
@@ -60,7 +58,6 @@
             └── tailwind.config.js
             └── vite.config.js
       ```
-   </details>
 
    
 
