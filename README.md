@@ -31,35 +31,35 @@
 
    <details>
       <summary>Click to expand</summary>
-      
-      └── 📁frontend
-         └── 📁public
-            └── check.svg
-            └── vite.svg
-         └── 📁src
-            └── 📁assets
-                  └── react.svg
-            └── 📁components
-                  └── CardGrid.jsx
-                  └── Footer.jsx
-                  └── Header.jsx
-                  └── SearchBar.jsx
-            └── 📁context
-                  └── CardContext.jsx
-            └── App.css
-            └── App.jsx
-            └── index.css
-            └── main.jsx
-         └── .gitignore
-         └── eslint.config.js
-         └── index.html
-         └── package-lock.json
-         └── package.json
-         └── postcss.config.js
-         └── README.md
-         └── tailwind.config.js
-         └── vite.config.js
-      
+      ```markdown
+         └── 📁frontend
+            └── 📁public
+               └── check.svg
+               └── vite.svg
+            └── 📁src
+               └── 📁assets
+                     └── react.svg
+               └── 📁components
+                     └── CardGrid.jsx
+                     └── Footer.jsx
+                     └── Header.jsx
+                     └── SearchBar.jsx
+               └── 📁context
+                     └── CardContext.jsx
+               └── App.css
+               └── App.jsx
+               └── index.css
+               └── main.jsx
+            └── .gitignore
+            └── eslint.config.js
+            └── index.html
+            └── package-lock.json
+            └── package.json
+            └── postcss.config.js
+            └── README.md
+            └── tailwind.config.js
+            └── vite.config.js
+      ```
    </details>
 
    
