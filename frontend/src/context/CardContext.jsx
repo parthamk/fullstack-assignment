@@ -13,7 +13,7 @@ export const CardProvider = ({ children }) => {
 
   const fetchCards = async () => {
     try {
-      const response = await axios.get('http://localhost:3001/cards');
+      const response = await axios.get('https://fullstack-assignment-97fv.onrender.com/cards');
       setCards(response.data);
     } catch (error) {
       console.error('Error fetching cards:', error);
