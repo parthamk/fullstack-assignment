@@ -110,9 +110,7 @@
 
 > Backend file structure
 
-   <details>
-      <summary>Click to expand</summary>
-      
+
       └── 📁backend
          └── 📁routes
             └── cards.js
@@ -122,5 +120,4 @@
          └── package.json
          └── server.js
       
-   </details>
 ---
